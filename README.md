@@ -1,24 +1,5 @@
 # Hi, I'm Sayed Ahmadreza Razian 👋
 
-PhD Biomedical Engineer (Biomechanics – Human Cardiovascular Systems)  
-MSc Artificial Intelligence & Robotics  
-BSc Applied Mathematics  
+I am a **PhD Biomedical Engineer (Biomechanics – Human Cardiovascular Systems)** with an **MSc in Artificial Intelligence & Robotics** and a **BSc in Applied Mathematics**. My interests include **Mathematics**, **Programming**, **Image Processing**, **Robotics**, and **Biomedical Engineering**. I work with technologies such as **C++**, **Python**, **C#**, **MATLAB**, and **Java**, and have experience in **Graphics Programming** using **OpenGL**, **DirectX**, **HLSL**, and **GLSL**. My robotics and embedded development experience includes **ESP32**, **STM32**, **Arduino**, and **NVIDIA Jetson**, along with work in **Machine Learning**, **Data Engineering**, and **Snowflake**, with infrastructure tools such as **AWS CDK**. I typically develop using **Visual Studio**, **VS Code**, and **Arduino IDE**.
 
-## Interests
-Mathematics • Programming • Image Processing • Robotics • Biomedical Engineering
-
-## Technologies
-C++ • Python • C# • MATLAB • Java  
-OpenGL • DirectX • HLSL / GLSL  
-ESP32 • STM32 • Arduino • NVIDIA Jetson  
-Snowflake • Machine Learning • AWS CDK
-
-## Tools
-Visual Studio • VS Code • Arduino IDE • Git
-
-## Contact
-Email: AhmadrezaRazian@gmail.com  
-LinkedIn: https://www.linkedin.com/in/ahmadrezarazian/  
-Google Scholar: https://scholar.google.com/citations?user=Dh9Iy2YAAAAJ  
-
-Don't hesitate to contact me!
+You can reach me via **Email (AhmadrezaRazian@gmail.com)**, **LinkedIn (https://www.linkedin.com/in/ahmadrezarazian/)**, or **Google Scholar (https://scholar.google.com/citations?user=Dh9Iy2YAAAAJ)**. **Don't hesitate to contact me!**
