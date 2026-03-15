@@ -1,7 +1,7 @@
 # Hi, I'm Sayed Ahmadreza Razian 👋
 
 PhD Biomedical Engineer (Biomechanics – Human Cardiovascular Systems)  
-MSc Artificial Intelligence & Robotics
+MSc Artificial Intelligence & Robotics  
 BSc Applied Mathematics  
 
 ## Interests
